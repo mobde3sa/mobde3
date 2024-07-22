@@ -290,6 +290,7 @@ main {
 .faq-item {
   margin-bottom: 20px;
   cursor: pointer;
+  border-bottom: 1px solid #020C3A;
 }
 
 .faq-item .question {
