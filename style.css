@@ -350,6 +350,7 @@ main {
   padding: 10px;
   cursor: pointer;
   z-index: 10;
+   display: none; 
 }
 
 .arrow.left {
